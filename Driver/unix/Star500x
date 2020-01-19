@@ -1,0 +1,13 @@
+# a ini file for star and gg.
+#
+#If no terminal, make the next line useful
+PATH=/dev/tty1a
+#
+SETAUX=\033!0;0;0;0Y\033[20h\033[12h
+INITAUX=\033[/50h\033[/53h\033[/54l
+CLOSEAUX=\033[/50l
+WRITEAUX=\033[/51h
+AUXENDWRITE=\033[/51l
+DISABLEKEYBOARD=\033[2h
+ENABLEKEYBOARD=\033[2l
+

@@ -1,0 +1,6 @@
+MC16_10.FRM
+MC32_10.BAS
+MC16_GL.BAS
+ProjWinSize=70,454,186,155
+ProjWinShow=2
+IconForm="Form1"
